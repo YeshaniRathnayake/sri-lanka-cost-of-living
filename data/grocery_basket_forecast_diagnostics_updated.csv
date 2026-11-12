@@ -1,0 +1,15 @@
+month,forecast_basket_cost_lkr,illustrative_80_lower_lkr,illustrative_80_upper_lkr,illustrative_95_lower_lkr,illustrative_95_upper_lkr,selected_model,horizon_month,heuristic_80_lower_lkr,heuristic_80_upper_lkr,heuristic_95_lower_lkr,heuristic_95_upper_lkr,interval_method
+2026-11,7372.61,7034.27,7710.94,6927.82,7817.39,ETS,1,7119.07,7626.15,7020.85,7724.37,pooled backtest absolute-error quantiles (3-month groups)
+2026-12,7619.77,7281.43,7958.1,7174.98,8064.55,ETS,2,7366.23,7873.31,7268.01,7971.53,pooled backtest absolute-error quantiles (3-month groups)
+2027-01,7419.22,7080.89,7757.56,6974.44,7864.01,ETS,3,7165.68,7672.76,7067.46,7770.98,pooled backtest absolute-error quantiles (3-month groups)
+2027-02,7366.07,7027.73,7704.4,6921.28,7810.85,ETS,4,7055.29,7676.85,6915.77,7816.37,pooled backtest absolute-error quantiles (3-month groups)
+2027-03,7484.34,7146.0,7822.67,7039.55,7929.12,ETS,5,7173.56,7795.12,7034.04,7934.64,pooled backtest absolute-error quantiles (3-month groups)
+2027-04,7701.76,7363.43,8040.1,7256.98,8146.55,ETS,6,7390.98,8012.54,7251.46,8152.06,pooled backtest absolute-error quantiles (3-month groups)
+2027-05,7645.35,7307.01,7983.68,7200.56,8090.13,ETS,7,7342.85,7947.85,7299.59,7991.11,pooled backtest absolute-error quantiles (3-month groups)
+2027-06,7835.18,7496.84,8173.51,7390.39,8279.96,ETS,8,7532.68,8137.68,7489.42,8180.94,pooled backtest absolute-error quantiles (3-month groups)
+2027-07,7853.23,7514.9,8191.56,7408.45,8298.02,ETS,9,7550.73,8155.73,7507.47,8198.99,pooled backtest absolute-error quantiles (3-month groups)
+2027-08,7790.76,7452.42,8129.09,7345.97,8235.54,ETS,10,7386.02,8195.5,7321.34,8260.18,pooled backtest absolute-error quantiles (3-month groups)
+2027-09,7777.63,7439.3,8115.97,7332.85,8222.42,ETS,11,7372.89,8182.37,7308.21,8247.05,pooled backtest absolute-error quantiles (3-month groups)
+2027-10,7671.66,7333.32,8009.99,7226.87,8116.44,ETS,12,7266.92,8076.4,7202.24,8141.08,pooled backtest absolute-error quantiles (3-month groups)
+2027-11,7678.48,7340.15,8016.82,7233.7,8123.27,ETS,13,7257.21,8099.75,7189.89,8167.07,extrapolated beyond 12-month backtest horizon; NOT validated
+2027-12,7921.63,7583.29,8259.96,7476.84,8366.41,ETS,14,7484.46,8358.8,7414.6,8428.66,extrapolated beyond 12-month backtest horizon; NOT validated

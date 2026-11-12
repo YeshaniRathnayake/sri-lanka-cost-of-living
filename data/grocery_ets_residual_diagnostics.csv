@@ -1,0 +1,4 @@
+specification,n,residual_mean_lkr,residual_sd_lkr,ljung_box_p_lag6,ljung_box_p_lag12,jarque_bera_p,aic,note
+ETS additive seasonal damped,82,20.913,201.772,0.10056929866625973,0.21943635295004363,8.34082162751324e-09,904.2518547671486,Full-sample in-sample residual diagnostics; not out-of-sample validation
+ETS additive seasonal undamped,82,0.017,210.342,0.004797995692863278,0.0364247628756422,1.763813234489822e-09,908.1860613687804,Full-sample in-sample residual diagnostics; not out-of-sample validation
+ETS additive trend nonseasonal,82,-1.82,243.287,0.2573927714983278,0.5337035718792458,3.611396236035655e-13,910.054190508129,Full-sample in-sample residual diagnostics; not out-of-sample validation

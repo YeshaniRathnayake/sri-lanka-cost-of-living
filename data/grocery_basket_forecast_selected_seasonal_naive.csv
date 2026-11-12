@@ -1,0 +1,15 @@
+month,forecast_basket_cost_lkr,model,forecast_horizon_months,forecast_source_month
+2026-11,6949.26,Seasonal naive (12-month lag),1,2025-11
+2026-12,7353.68,Seasonal naive (12-month lag),2,2025-12
+2027-01,6935.41,Seasonal naive (12-month lag),3,2026-01
+2027-02,6935.37,Seasonal naive (12-month lag),4,2026-02
+2027-03,7175.95,Seasonal naive (12-month lag),5,2026-03
+2027-04,7363.05,Seasonal naive (12-month lag),6,2026-04
+2027-05,7218.45,Seasonal naive (12-month lag),7,2026-05
+2027-06,7225.21,Seasonal naive (12-month lag),8,2026-06
+2027-07,7285.09,Seasonal naive (12-month lag),9,2026-07
+2027-08,7379.76,Seasonal naive (12-month lag),10,2026-08
+2027-09,7506.6,Seasonal naive (12-month lag),11,2026-09
+2027-10,7361.72,Seasonal naive (12-month lag),12,2026-10
+2027-11,6949.26,Seasonal naive (12-month lag),13,2026-11
+2027-12,7353.68,Seasonal naive (12-month lag),14,2026-12

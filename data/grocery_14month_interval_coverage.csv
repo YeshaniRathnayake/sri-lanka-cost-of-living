@@ -1,0 +1,31 @@
+model,horizon_group,nominal_coverage,observed_loo_coverage,n_test,method
+Seasonal naive,1–3,0.8,0.75,12,leave-one-origin-out; pooled errors within horizon group; exploratory only
+Seasonal naive,1–3,0.95,0.75,12,leave-one-origin-out; pooled errors within horizon group; exploratory only
+Seasonal naive,4–6,0.8,0.6666666666666666,12,leave-one-origin-out; pooled errors within horizon group; exploratory only
+Seasonal naive,4–6,0.95,0.9166666666666666,12,leave-one-origin-out; pooled errors within horizon group; exploratory only
+Seasonal naive,7–9,0.8,0.75,12,leave-one-origin-out; pooled errors within horizon group; exploratory only
+Seasonal naive,7–9,0.95,0.9166666666666666,12,leave-one-origin-out; pooled errors within horizon group; exploratory only
+Seasonal naive,10–12,0.8,0.8333333333333334,12,leave-one-origin-out; pooled errors within horizon group; exploratory only
+Seasonal naive,10–12,0.95,0.8333333333333334,12,leave-one-origin-out; pooled errors within horizon group; exploratory only
+Seasonal naive,13–14,0.8,0.75,8,leave-one-origin-out; pooled errors within horizon group; exploratory only
+Seasonal naive,13–14,0.95,0.75,8,leave-one-origin-out; pooled errors within horizon group; exploratory only
+ETS,1–3,0.8,0.75,12,leave-one-origin-out; pooled errors within horizon group; exploratory only
+ETS,1–3,0.95,0.75,12,leave-one-origin-out; pooled errors within horizon group; exploratory only
+ETS,4–6,0.8,0.8333333333333334,12,leave-one-origin-out; pooled errors within horizon group; exploratory only
+ETS,4–6,0.95,0.8333333333333334,12,leave-one-origin-out; pooled errors within horizon group; exploratory only
+ETS,7–9,0.8,0.75,12,leave-one-origin-out; pooled errors within horizon group; exploratory only
+ETS,7–9,0.95,0.75,12,leave-one-origin-out; pooled errors within horizon group; exploratory only
+ETS,10–12,0.8,0.75,12,leave-one-origin-out; pooled errors within horizon group; exploratory only
+ETS,10–12,0.95,0.75,12,leave-one-origin-out; pooled errors within horizon group; exploratory only
+ETS,13–14,0.8,0.75,8,leave-one-origin-out; pooled errors within horizon group; exploratory only
+ETS,13–14,0.95,0.75,8,leave-one-origin-out; pooled errors within horizon group; exploratory only
+SARIMA,1–3,0.8,0.75,12,leave-one-origin-out; pooled errors within horizon group; exploratory only
+SARIMA,1–3,0.95,0.75,12,leave-one-origin-out; pooled errors within horizon group; exploratory only
+SARIMA,4–6,0.8,0.6666666666666666,12,leave-one-origin-out; pooled errors within horizon group; exploratory only
+SARIMA,4–6,0.95,0.9166666666666666,12,leave-one-origin-out; pooled errors within horizon group; exploratory only
+SARIMA,7–9,0.8,0.75,12,leave-one-origin-out; pooled errors within horizon group; exploratory only
+SARIMA,7–9,0.95,0.75,12,leave-one-origin-out; pooled errors within horizon group; exploratory only
+SARIMA,10–12,0.8,0.75,12,leave-one-origin-out; pooled errors within horizon group; exploratory only
+SARIMA,10–12,0.95,0.75,12,leave-one-origin-out; pooled errors within horizon group; exploratory only
+SARIMA,13–14,0.8,0.75,8,leave-one-origin-out; pooled errors within horizon group; exploratory only
+SARIMA,13–14,0.95,0.75,8,leave-one-origin-out; pooled errors within horizon group; exploratory only
